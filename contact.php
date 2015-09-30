@@ -33,7 +33,7 @@
                     Elite Hostels Room 304B <br>Ongata Rongai<br>
                 </p>
                 <p><i class="fa fa-phone"></i>
-                    <abbr title="Phone">P</abbr>: (254) 756-7890</p>
+                    <abbr title="Phone">P</abbr>: (254) 0717579748</p>
                 <p><i class="fa fa-envelope-o"></i>
                     <abbr title="Email">E</abbr>: <a href="mailto:name@example.com">deborahmsv@gmail.com</a>
                 </p>
